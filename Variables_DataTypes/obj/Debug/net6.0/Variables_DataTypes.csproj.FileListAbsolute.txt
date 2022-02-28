@@ -1,0 +1,15 @@
+C:\Users\Nazlı\C#\PatikaPractice\Variables_DataTypes\obj\Debug\net6.0\Variables_DataTypes.csproj.AssemblyReference.cache
+C:\Users\Nazlı\C#\PatikaPractice\Variables_DataTypes\obj\Debug\net6.0\Variables_DataTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nazlı\C#\PatikaPractice\Variables_DataTypes\obj\Debug\net6.0\Variables_DataTypes.AssemblyInfoInputs.cache
+C:\Users\Nazlı\C#\PatikaPractice\Variables_DataTypes\obj\Debug\net6.0\Variables_DataTypes.AssemblyInfo.cs
+C:\Users\Nazlı\C#\PatikaPractice\Variables_DataTypes\obj\Debug\net6.0\Variables_DataTypes.csproj.CoreCompileInputs.cache
+C:\Users\Nazlı\C#\PatikaPractice\Variables_DataTypes\bin\Debug\net6.0\Variables_DataTypes.exe
+C:\Users\Nazlı\C#\PatikaPractice\Variables_DataTypes\bin\Debug\net6.0\Variables_DataTypes.deps.json
+C:\Users\Nazlı\C#\PatikaPractice\Variables_DataTypes\bin\Debug\net6.0\Variables_DataTypes.runtimeconfig.json
+C:\Users\Nazlı\C#\PatikaPractice\Variables_DataTypes\bin\Debug\net6.0\Variables_DataTypes.dll
+C:\Users\Nazlı\C#\PatikaPractice\Variables_DataTypes\bin\Debug\net6.0\Variables_DataTypes.pdb
+C:\Users\Nazlı\C#\PatikaPractice\Variables_DataTypes\obj\Debug\net6.0\Variables_DataTypes.dll
+C:\Users\Nazlı\C#\PatikaPractice\Variables_DataTypes\obj\Debug\net6.0\refint\Variables_DataTypes.dll
+C:\Users\Nazlı\C#\PatikaPractice\Variables_DataTypes\obj\Debug\net6.0\Variables_DataTypes.pdb
+C:\Users\Nazlı\C#\PatikaPractice\Variables_DataTypes\obj\Debug\net6.0\Variables_DataTypes.genruntimeconfig.cache
+C:\Users\Nazlı\C#\PatikaPractice\Variables_DataTypes\obj\Debug\net6.0\ref\Variables_DataTypes.dll
