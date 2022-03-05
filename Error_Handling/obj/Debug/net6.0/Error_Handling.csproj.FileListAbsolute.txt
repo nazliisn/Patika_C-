@@ -1,0 +1,15 @@
+C:\Users\Nazlı\C#\PatikaPractice\Error_Handling\bin\Debug\net6.0\Error_Handling.exe
+C:\Users\Nazlı\C#\PatikaPractice\Error_Handling\bin\Debug\net6.0\Error_Handling.deps.json
+C:\Users\Nazlı\C#\PatikaPractice\Error_Handling\bin\Debug\net6.0\Error_Handling.runtimeconfig.json
+C:\Users\Nazlı\C#\PatikaPractice\Error_Handling\bin\Debug\net6.0\Error_Handling.dll
+C:\Users\Nazlı\C#\PatikaPractice\Error_Handling\bin\Debug\net6.0\Error_Handling.pdb
+C:\Users\Nazlı\C#\PatikaPractice\Error_Handling\obj\Debug\net6.0\Error_Handling.csproj.AssemblyReference.cache
+C:\Users\Nazlı\C#\PatikaPractice\Error_Handling\obj\Debug\net6.0\Error_Handling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nazlı\C#\PatikaPractice\Error_Handling\obj\Debug\net6.0\Error_Handling.AssemblyInfoInputs.cache
+C:\Users\Nazlı\C#\PatikaPractice\Error_Handling\obj\Debug\net6.0\Error_Handling.AssemblyInfo.cs
+C:\Users\Nazlı\C#\PatikaPractice\Error_Handling\obj\Debug\net6.0\Error_Handling.csproj.CoreCompileInputs.cache
+C:\Users\Nazlı\C#\PatikaPractice\Error_Handling\obj\Debug\net6.0\Error_Handling.dll
+C:\Users\Nazlı\C#\PatikaPractice\Error_Handling\obj\Debug\net6.0\refint\Error_Handling.dll
+C:\Users\Nazlı\C#\PatikaPractice\Error_Handling\obj\Debug\net6.0\Error_Handling.pdb
+C:\Users\Nazlı\C#\PatikaPractice\Error_Handling\obj\Debug\net6.0\Error_Handling.genruntimeconfig.cache
+C:\Users\Nazlı\C#\PatikaPractice\Error_Handling\obj\Debug\net6.0\ref\Error_Handling.dll
