@@ -1,0 +1,15 @@
+C:\Users\Nazlı\C#\PatikaPractice\Type_Conversions\bin\Debug\net6.0\Type_Conversions.exe
+C:\Users\Nazlı\C#\PatikaPractice\Type_Conversions\bin\Debug\net6.0\Type_Conversions.deps.json
+C:\Users\Nazlı\C#\PatikaPractice\Type_Conversions\bin\Debug\net6.0\Type_Conversions.runtimeconfig.json
+C:\Users\Nazlı\C#\PatikaPractice\Type_Conversions\bin\Debug\net6.0\Type_Conversions.dll
+C:\Users\Nazlı\C#\PatikaPractice\Type_Conversions\bin\Debug\net6.0\Type_Conversions.pdb
+C:\Users\Nazlı\C#\PatikaPractice\Type_Conversions\obj\Debug\net6.0\Type_Conversions.csproj.AssemblyReference.cache
+C:\Users\Nazlı\C#\PatikaPractice\Type_Conversions\obj\Debug\net6.0\Type_Conversions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nazlı\C#\PatikaPractice\Type_Conversions\obj\Debug\net6.0\Type_Conversions.AssemblyInfoInputs.cache
+C:\Users\Nazlı\C#\PatikaPractice\Type_Conversions\obj\Debug\net6.0\Type_Conversions.AssemblyInfo.cs
+C:\Users\Nazlı\C#\PatikaPractice\Type_Conversions\obj\Debug\net6.0\Type_Conversions.csproj.CoreCompileInputs.cache
+C:\Users\Nazlı\C#\PatikaPractice\Type_Conversions\obj\Debug\net6.0\Type_Conversions.dll
+C:\Users\Nazlı\C#\PatikaPractice\Type_Conversions\obj\Debug\net6.0\refint\Type_Conversions.dll
+C:\Users\Nazlı\C#\PatikaPractice\Type_Conversions\obj\Debug\net6.0\Type_Conversions.pdb
+C:\Users\Nazlı\C#\PatikaPractice\Type_Conversions\obj\Debug\net6.0\Type_Conversions.genruntimeconfig.cache
+C:\Users\Nazlı\C#\PatikaPractice\Type_Conversions\obj\Debug\net6.0\ref\Type_Conversions.dll
