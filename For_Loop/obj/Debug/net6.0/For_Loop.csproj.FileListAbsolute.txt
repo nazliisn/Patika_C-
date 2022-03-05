@@ -1,0 +1,15 @@
+C:\Users\Nazlı\C#\PatikaPractice\For_Loop\obj\Debug\net6.0\For_Loop.csproj.AssemblyReference.cache
+C:\Users\Nazlı\C#\PatikaPractice\For_Loop\obj\Debug\net6.0\For_Loop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nazlı\C#\PatikaPractice\For_Loop\obj\Debug\net6.0\For_Loop.AssemblyInfoInputs.cache
+C:\Users\Nazlı\C#\PatikaPractice\For_Loop\obj\Debug\net6.0\For_Loop.AssemblyInfo.cs
+C:\Users\Nazlı\C#\PatikaPractice\For_Loop\obj\Debug\net6.0\For_Loop.csproj.CoreCompileInputs.cache
+C:\Users\Nazlı\C#\PatikaPractice\For_Loop\bin\Debug\net6.0\For_Loop.exe
+C:\Users\Nazlı\C#\PatikaPractice\For_Loop\bin\Debug\net6.0\For_Loop.deps.json
+C:\Users\Nazlı\C#\PatikaPractice\For_Loop\bin\Debug\net6.0\For_Loop.runtimeconfig.json
+C:\Users\Nazlı\C#\PatikaPractice\For_Loop\bin\Debug\net6.0\For_Loop.dll
+C:\Users\Nazlı\C#\PatikaPractice\For_Loop\bin\Debug\net6.0\For_Loop.pdb
+C:\Users\Nazlı\C#\PatikaPractice\For_Loop\obj\Debug\net6.0\For_Loop.dll
+C:\Users\Nazlı\C#\PatikaPractice\For_Loop\obj\Debug\net6.0\refint\For_Loop.dll
+C:\Users\Nazlı\C#\PatikaPractice\For_Loop\obj\Debug\net6.0\For_Loop.pdb
+C:\Users\Nazlı\C#\PatikaPractice\For_Loop\obj\Debug\net6.0\For_Loop.genruntimeconfig.cache
+C:\Users\Nazlı\C#\PatikaPractice\For_Loop\obj\Debug\net6.0\ref\For_Loop.dll
